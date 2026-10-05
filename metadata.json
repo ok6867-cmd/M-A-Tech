@@ -1,0 +1,8 @@
+{
+  "name": "M.A. TECH ENTERPRISE - Bill & Challan Suite",
+  "description": "Billing, Mushak-6.3 VAT Tax Invoices, Mushak-6.5 Delivery Challans, and inventory management for CCTV cameras, computer and mobile accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
